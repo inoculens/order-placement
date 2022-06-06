@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>New Order</title>
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/style.css">
+        <!-- JS -->
+        <script src="js/script.js"></script>
+    </head>
+    <body>
+        <div class="form">
+            <script src="js/action.js"></script>
+                <div class="ServiceType">
+                    <input type="text" name="Type" id="type" hidden />
+                    <input type="text" name="Service" id="service" hidden />
+                    <input type="text" name="Plan" id="plan" hidden />
+                </div>
+                <div class="name">
+                    <label for="name" id="nameLabel">Name</label>
+                    <input type="text" id="nameInput" name="Name" />
+                </div>
+                <div class="email">
+                    <label for="email" id="emailLabel">Email</label>
+                    <input type="text" id="emailInput" name="Email" />
+                </div>
+                <div class="date">
+                    <label for="date" id="dateLabel">Event Date</label>
+                    <input type="text" id="dateInput" name="Event_Date" />
+                </div>
+                <div class="place">
+                    <label for="place" id="placeLabel">Location</label>
+                    <input type="text" id="placeInput" name="Event_Location" />
+                </div>
+                <div class="extra">
+                    <label for="extra" id="extraLabel">Extra Info</label>
+                    <textarea name="Extra_Info" id="extraInput" cols="50" rows="10"></textarea>
+                </div>
+                <div class="clientInfo">
+                    <input type="text" name="IPv4" id="userIPv4" hidden />
+                    <input type="text" name="IPv6" id="userIPv6" hidden />
+                </div>
+                <div class="submit">
+                    <button onclick="placeOrder()" id="submitBtn" type="button">PLACE ORDER</button>
+                </div>
+                <script src="js/database-processing.js"></script>
+            </form>
+        </div>
+    </body>
+</html>
