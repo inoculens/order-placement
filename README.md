@@ -3,6 +3,10 @@
 <p align="center">This is app allows the users to place new orders on the INOCULENS MEDIA platforms.
 
 ## Change Log
+<b>Release 〢 1.0.1 (mk1) | build 2</b>
+
+- Adjusted the spaces from the footer of the README.md file.
+
 <b>Release 〢 1.0.1 (mk1) | build 1</b>
 
 - Adjusted the README.md file.
@@ -22,5 +26,4 @@
 **This repository follows the [iVer](https://github.com/frontfacer/iVer) versioning format.*
 
 #
-<p align="center">© 2022 〣 INOCULENS MEDIA</p>
-<p align="center">www.inoculens.com</p>
+<p align="center">© 2022 〣 INOCULENS MEDIA<br>www.inoculens.com</p>
