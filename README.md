@@ -1,8 +1,12 @@
 # <p align="center"><b>INOCULENS MEDIA</b> - Order Placement
 
-<p align="center">This is app allows the users to place new orders on the INOCULENS MEDIA platforms.
+<p align="center">This app allows the users to place new orders on the INOCULENS MEDIA platforms.
 
 ## Change Log
+<b>Release 〢 1.0.1 (mk1) | build 3</b>
+
+- Fixed spelling mistake for the README.md file.
+
 <b>Release 〢 1.0.1 (mk1) | build 2</b>
 
 - Adjusted the spaces from the footer of the README.md file.
