@@ -1,8 +1,16 @@
-# <p align="center"><b>INOCULENS MEDIA</b> - Order Placement
+<p align="center"><img src="https://static.inoculens.com/logo" width="100" height="100" />
 
-<p align="center">This app allows the users to place new orders on the INOCULENS MEDIA platforms.
+# <p align="center"><b>INOCULENS</b>
 
-## Change Log
+<p align="center"><b>Order Placement</b><br><br>
+This app allows the users to place new orders on the INOCULENS platforms.<br><br><br>
+
+## <b>Change Log:</b><br><br>
+<b>Release 〢 2.0.0 (mk1)</b>
+
+- Migrated the backend from Heroku to Google Cloud
+- Added a new form: Video Post Production
+
 <b>Release 〢 1.0.1 (mk1) | build 3</b>
 
 - Fixed spelling mistake for the README.md file.

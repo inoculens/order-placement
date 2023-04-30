@@ -129,6 +129,24 @@ window.onload = function() {
             }
         }
     }
+
+    // COMMON
+    else if (query.includes('type=post-production')) {
+        type.value = 'Common';
+        service.value = 'Post Production';
+
+        nameLabel.innerHTML = '* Name';
+        emailLabel.innerHTML = '* Email';
+        dateLabel.innerHTML = '* When should the content be ready?';
+        placeLabel.innerHTML = '* Link to the content (G Drive, OneDrive, etc...)';
+        extraLabel.innerHTML = '* How should the content be edited?';
+
+        // Type of footage
+        if (query.includes('plan=video')) {
+            plan.value = 'Video';
+        }
+    }
+    
     else {
         // Errors on form page
         nameLabel.innerHTML = 'Err';
