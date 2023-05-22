@@ -6,6 +6,13 @@
 This app allows the users to place new orders on the INOCULENS platforms.<br><br><br>
 
 ## <b>Change Log:</b><br><br>
+<b>Release 〢 2.0.1 (mk1)</b>
+
+- Updated the database location to the DEV environment.
+- Adjusted the backend path upon processing.
+- Updated the head structure of the app to match the standard formatting.
+- Adjusted the README.md file to represent INOCULENS legal starting date.
+
 <b>Release 〢 2.0.0 (mk1)</b>
 
 - Migrated the backend from Heroku to Google Cloud
@@ -38,4 +45,4 @@ This app allows the users to place new orders on the INOCULENS platforms.<br><br
 **This repository follows the [iVer](https://github.com/frontfacer/iVer) versioning format.*
 
 #
-<p align="center">© 2022 〣 INOCULENS MEDIA<br>www.inoculens.com</p>
+<p align="center">© 2023 〣 INOCULENS MEDIA<br>www.inoculens.com</p>

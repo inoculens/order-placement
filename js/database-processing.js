@@ -1,5 +1,5 @@
 // Procesarea bazei de date
-const scriptURL = 'https://script.google.com/macros/s/AKfycbxaL6Ez6JaUwqfoT3XJ1EMOK4W1GmZ4Ay1lLwR2Rd8bMzDfFagNSYWNwbUpZMkQhr8/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbyFoVQvY4d1vDQVkjTRaDN3EdpMXEA6r7dla1c480oWaptVNNjRYRWQ8fnRViSLhVuX/exec'
 const form = document.forms['NewOrder']
 
 form.addEventListener('submit', e => {
